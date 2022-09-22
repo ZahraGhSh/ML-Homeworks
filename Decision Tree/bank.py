@@ -41,7 +41,7 @@ print("datasets loaded")
 tree = DecisionTree()
 tree.makeTree(train_dataset)
 
-for depth in [1,2,4,6,8,10,12,14,16]:
+for depth in [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16]:
     for name, fun in zip(["Entropy", "Gini Index", "Majority Error"], [InformationGain, GiniGain, MajorityErrorGain]):
         print(f"training a tree with depth {depth} using purity measure {name}")
         tree = DecisionTree(purity_function=fun, max_depth=depth)
