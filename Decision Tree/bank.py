@@ -1,7 +1,7 @@
 import argparse
 from DecisionTree import DecisionTree, InformationGain, GiniGain, MajorityErrorGain
 
-dataset_loc = "../data/bank/"
+dataset_loc = "/data/bank/"
 
 def HandleLine(line):
     terms = line.strip().split(",")
