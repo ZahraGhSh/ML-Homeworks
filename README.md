@@ -10,3 +10,6 @@ Different methods including batch gradient descent, stochastic gradient descent,
 
 ## Ensemble Learning
 The machine learning ensemble methods taught in class including Bagged Trees, Random Forrest and AdaBoost were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the EnsembleLearning directory
+
+## Perceptron 
+The standard, voted and average perceptron algorithms covered in class were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the Preceptron directory
