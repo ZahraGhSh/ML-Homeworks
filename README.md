@@ -13,3 +13,6 @@ The machine learning ensemble methods taught in class including Bagged Trees, Ra
 
 ## Perceptron 
 The standard, voted and average perceptron algorithms covered in class were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the Preceptron directory
+
+## SVM
+The SVM algorithm covered in class were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the SVM directory
