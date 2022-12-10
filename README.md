@@ -16,3 +16,6 @@ The standard, voted and average perceptron algorithms covered in class were impl
 
 ## SVM
 The SVM algorithm covered in class were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the SVM directory
+
+## Neural Network
+The Neural Network algorithm covered in class were implemented and included in the code in this directory. To get the results using the data, clone the repository and run bash script run.sh in the NeuralNetwork directory
